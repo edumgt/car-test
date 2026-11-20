@@ -1,0 +1,8 @@
+{
+  "name": "car-test",
+  "description": "한국 운전면허 장내기능시험 T코스(직각주차) 및 S코스(굴절곡선) 집중 연습용 3D 드라이빙 시뮬레이터.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
